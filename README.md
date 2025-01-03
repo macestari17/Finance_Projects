@@ -1,6 +1,8 @@
-# Finance Projects 📊
+# FFinance Projects Repository! 💼📊
 
-Welcome to the **Finance Projects** repository! This collection features Python-based projects tailored for financial calculations and advanced analysis. Whether you're a finance enthusiast or a professional, these scripts can serve as powerful tools for portfolio management, risk analysis, and forecasting.
+This repository showcases Python-based projects inspired by concepts I studied during my MBA in Applied Finance. While much of my academic work was theoretical or conducted using Excel, I took the initiative to translate these concepts into Python to enhance their professional applicability.
+
+These projects demonstrate my ability to bridge the gap between theoretical knowledge and practical implementation. Whether it's portfolio management, risk analysis, or financial forecasting, this repository highlights not only my technical skills but also my dedication to learning, adapting, and applying new tools for real-world impact.
 
 ---
 
