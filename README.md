@@ -1,4 +1,4 @@
-# Finance Projects Repository! 📊💼
+# Finance Projects Repository 📊
 
 This repository showcases Python-based projects inspired by concepts I studied during my MBA in Applied Finance. While much of my academic work was theoretical or conducted using Excel, I took the initiative to translate these concepts into Python to enhance their professional applicability.
 
