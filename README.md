@@ -7,7 +7,7 @@ The projects cover portfolio management, risk analysis, and financial forecastin
 ---
 
 ## 🌟 Features
-  - Advanced models for Monte Carlo simulations, Black-Scholes option pricing, and portfolio optimization.
+  - Models for Monte Carlo simulations, Black-Scholes option pricing, and portfolio optimization.
   - Regression models and exchange rate forecasting to assist in strategic decision-making.
   - Essential financial computations, including portfolio variance, CAPM, Sharpe ratios, and more.
 
