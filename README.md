@@ -1,8 +1,8 @@
 # Finance Projects Repository 📊
 
-This repository showcases Python-based projects inspired by concepts I'm studying as part of my MBA in Applied Finance. While much of my academic work was theoretical or conducted using Excel, I took the initiative to translate these concepts into Python to enhance their professional applicability.
+This repository contains Python-based projects inspired by concepts from my MBA in Applied Finance. Since much of my academic work has been theoretical or conducted using Excel, I created these projects to apply those concepts in Python for practical use.
 
-These projects demonstrate my ability to bridge the gap between theoretical knowledge and practical implementation. Whether it's portfolio management, risk analysis, or financial forecasting, this repository highlights not only my technical skills but also my dedication to learning, adapting, and applying new tools for real-world impact.
+The projects cover portfolio management, risk analysis, and financial forecasting, with a focus on implementing financial models and calculations.
 
 ---
 
